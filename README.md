@@ -14,7 +14,7 @@ This Rust program uses the OpenAI API to generate SQL code based on a given prom
    ```bash
    git clone https://github.com/your_username/your_repository.git
    cd your_repository
-cargo build
+   cargo build
 
 ## Run the Program:
 cargo run
